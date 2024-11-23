@@ -1,0 +1,15 @@
+C:\Users\Jayne\tarea-gitflow2\bin\Debug\net8.0\HolaMundo.exe
+C:\Users\Jayne\tarea-gitflow2\bin\Debug\net8.0\HolaMundo.deps.json
+C:\Users\Jayne\tarea-gitflow2\bin\Debug\net8.0\HolaMundo.runtimeconfig.json
+C:\Users\Jayne\tarea-gitflow2\bin\Debug\net8.0\HolaMundo.dll
+C:\Users\Jayne\tarea-gitflow2\bin\Debug\net8.0\HolaMundo.pdb
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\HolaMundo.AssemblyInfo.cs
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\HolaMundo.sourcelink.json
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\HolaMundo.dll
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\refint\HolaMundo.dll
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\HolaMundo.pdb
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\HolaMundo.genruntimeconfig.cache
+C:\Users\Jayne\tarea-gitflow2\obj\Debug\net8.0\ref\HolaMundo.dll
